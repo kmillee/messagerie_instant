@@ -13,8 +13,8 @@ Ce code a été créé dans le contexte d'un projet noté de notre cours de Syst
 #### 1. Cloner le dépôt
 Dans un terminal:
 ```sh
-git clone https://github.com/kmillee/projet_serveur.git 
-cd projet_serveur
+git clone https://github.com/kmillee/messagerie_instant.git 
+cd messagerie_instant
 ```
 #### 2. Compiler le programme
 Deux fichiers doivent être compiler:
