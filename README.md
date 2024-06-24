@@ -11,23 +11,23 @@ Ce code a été créé dans le contexte d'un projet noté de notre cours de Syst
 ### Installation
 
 #### 1. Cloner le dépôt
-Dans un terminal:
+Dans un terminal, écrivez l'instruction suivante :
 ```sh
 git clone https://github.com/kmillee/messagerie_instant.git 
 cd messagerie_instant
 ```
 #### 2. Compiler le programme
-Deux fichiers doivent être compiler:
+Deux fichiers doivent être compilés :
 ```sh
 gcc serveur.c -o serveur
 gcc client.c -o client
 ```
 #### 3. Exécuter le programme
-Pour exécuter le programme, lancez dans un premier terminal le code du serveur:
+Pour exécuter le programme, lancez dans un premier terminal le code du serveur :
 ```sh
 ./serveur
 ```
-Puis pour chaque nouvel utilisateur, ouvrez un nouveau terminal et lancez le code client:
+Puis pour chaque nouvel utilisateur, ouvrez un nouveau terminal et lancez le code client :
 ```sh
 ./client
 ```
