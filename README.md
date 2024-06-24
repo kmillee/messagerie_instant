@@ -37,7 +37,7 @@ Puis pour chaque nouvel utilisateur, ouvrez un nouveau terminal et lancez le cod
 * Pour fermer le serveur, il faut que tous les clients se déconnectent.
 
 ## CONTACTS
-N'hésitez pas à nous contacter pour plus d'informations:
+N'hésitez pas à nous contacter pour plus d'informations :
 * Adam Kaufman alias [@ockedman](https://github.com/ockedman)
   * mail : adam.kaufman@dauphine.eu
 * Camille Jouanet alias [@kmillee](https://github.com/kmillee)
