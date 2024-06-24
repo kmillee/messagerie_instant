@@ -1,5 +1,5 @@
 # Serveur de discussion
-Ce programme C utilise des sockets pour simuler le fonctionnement d'un serveur de messagerie instantannée. 
+Ce programme C utilise des sockets pour simuler le fonctionnement d'un serveur de messagerie instantanée. 
 Ce code a été créé dans le contexte d'un projet noté de notre cours de Systèmes d'exploitation.
 
 ## GUIDE D'UTILISATION
